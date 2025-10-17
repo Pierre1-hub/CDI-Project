@@ -54,7 +54,7 @@ button:hover {
 }
 
 main {
-  background-image: url("Image/background.jpg");
+  background-image: url("background.jpg");
   background-size: cover;
   background-position: center;
   padding: 40px 0;
@@ -179,3 +179,4 @@ footer .btn_footer:hover {
   color: white;
   box-shadow: 0 0 15px #00b4d8;
 }
+
